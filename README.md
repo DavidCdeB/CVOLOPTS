@@ -20,7 +20,7 @@
  ```
  The name of this output has to end as `*.out`
  
- # 7. How to run `CVOLOPTS`
+ # 4. How to run `CVOLOPTS`
 
 * `cd` to the working directory where you have the `*EOS.out` and the scelphono outputs `*T.out`
 * Get the code: `git clone https://github.com/DavidCdeB/CVOLOPTS`
@@ -28,7 +28,7 @@
 * Run `CVOLOPTS.py`
 
 
- # 4. Test
+ # 5. Test
 
 Under the `Test` folder, you will find 16 constant volume optimization outputs `*.out` for Calcite I.
 If you run the program, you will obtain the following table:
@@ -36,7 +36,7 @@ If you run the program, you will obtain the following table:
 ![Data flow](https://github.com/DavidCdeB/CVOLOPTS/blob/master/Images_for_README_md/data.png)
 
  
-# 5. Contributing
+# 6. Contributing
 
 All contributions to improve this script or creating a more general script that would calculate more variables are very welcome.
 
