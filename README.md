@@ -11,7 +11,7 @@
  
  # 3. Files needed for running `CVOLOPTS`:
  
- You don't need CRYSTAL to run `QHA`, only the output files from a constant volume optimization calculation:
+ You don't need CRYSTAL to run `CVOLOPTS`, only the output files from a constant volume optimization calculation:
  
  ```
  OPTGEOM
