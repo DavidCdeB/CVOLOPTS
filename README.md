@@ -36,3 +36,14 @@ If you run the program, you will obtain the following table:
 ![Data flow](https://github.com/DavidCdeB/CVOLOPTS/blob/master/Images_for_README_md/data.png)
 
  
+# 5. Contributing
+
+All contributions to improve this script or creating a more general script that would calculate more variables are very welcome.
+
+* Have a look at GitHub's ["How to contribute"](https://guides.github.com/activities/contributing-to-open-source/#contributing).
+* If you are familiar with `git`: fork this repository and submit a pull request.
+* If you are not familiar with `git`: 
+
+    * If something should be improved, open an issue here on GitHub
+    * If you think a new feature would be nice, open an issue
+    * If you need a feature for your project contact me directly.
