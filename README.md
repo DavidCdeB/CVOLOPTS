@@ -19,6 +19,14 @@
  END 
  ```
  The name of this output has to end as `*.out`
+ 
+ # 7. How to run `CVOLOPTS`
+
+* `cd` to the working directory where you have the `*EOS.out` and the scelphono outputs `*T.out`
+* Get the code: `git clone https://github.com/DavidCdeB/CVOLOPTS`
+* Give permissions to all the script: `chmod u+x *.py`
+* Run `CVOLOPTS.py`
+
 
  # 4. Test
 
