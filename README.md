@@ -9,7 +9,7 @@
  `CVOLOPTS` is a program that extracts the the optimised energy and volume from a constant volume optimization (``CVOLOPT`` calculation) on [CRYSTAL](http://www.crystal.unito.it/index.php). 
  
  
- # 3. Files needed for running `CVOLOPTS`:
+ # 3. Files needed for running `CVOLOPTS`
  
  You don't need CRYSTAL to run `CVOLOPTS`, only the output files from a constant volume optimization calculation:
  
