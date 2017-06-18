@@ -30,7 +30,7 @@
 
  # 5. Test
 
-Under the `Test` folder, you will find 16 constant volume optimization outputs `*.out` for Calcite I.
+Under the `Test` folder, you will find the program and 16 constant volume optimization outputs `*.out` for Calcite I.
 If you run the program, you will obtain the following table:
 
 ![Data flow](https://github.com/DavidCdeB/CVOLOPTS/blob/master/Images_for_README_md/data.png)
