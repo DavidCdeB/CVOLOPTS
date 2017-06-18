@@ -1,4 +1,10 @@
 #
+# CVOLOPTS program. David Carrasco de Busturia, 18 June 2017 
+# Please read the documentation and istructions on: https://github.com/DavidCdeB/CVOLOPTS
+# This program is under the GNU General Public License v3.0. 
+# davidcarrascobustur@gmail.com
+# d.carrasco-de-bsuturia@imperial.ac.uk
+
 import re
 import os
 import glob
